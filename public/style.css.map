@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","mappings":";;;AAAA;EAEQ,uBAAuB","sources":["webpack://javascript-p2-airbnb/./src/style.scss"],"sourcesContent":["body {\n    p {\n        background-color: green;\n    }\n}\n"],"names":[],"sourceRoot":""}
